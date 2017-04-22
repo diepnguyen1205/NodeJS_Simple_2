@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: cscmaroc10
-  host: cscmaroc10
+  name: diepnguyen1205
+  host: diepnguyen1205
   disk_quota: 1024M
